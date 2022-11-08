@@ -1,6 +1,5 @@
 # Pig-Game
 
-Part of JS Zero to Hero Course on Udemy.
 Focusing mainly on JS and CSS classes.
 
 Brief rules:
